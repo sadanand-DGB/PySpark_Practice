@@ -4,7 +4,7 @@ This repository contains my PySpark practice and learning exercises, covering Py
 
 ## Topics Covered
 
-### PySpark I
+### PySpark 
 
 - Reading and writing CSV
 - Reading and writing JSON
@@ -136,6 +136,4 @@ PySpark_Practice/
 │       ├── row_number.py
 │       └── running_total.py
 │
-├── test_spark.py
-├── .gitignore
 └── README.md
